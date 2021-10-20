@@ -1,3 +1,6 @@
+# ---> FreeCad
+*.FCStd1
+
 # ---> LibreOffice
 # LibreOffice locks
 .~lock.*#
@@ -24,7 +27,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
