@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns:cc="http://creativecommons.org/ns#" height="210mm" baseProfile="tiny" xmlns:dc="http://purl.org/dc/elements/1.1/" width="297mm" viewBox="0 0 2970 2100" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page002 exported from FreeCAD document: sibi_light_supports</desc>
+ <defs/>
+ <g id="Page002">
+  <g stroke-linecap="square" id="DrawingContent" stroke="black" fill-rule="evenodd" stroke-width="1" fill="none" stroke-linejoin="bevel">
+   <g font-size="45.8611" font-family=".AppleSystemUIFont" font-weight="400" stroke="none" font-style="normal" fill-opacity="1" transform="matrix(1,0,0,1,1485,1050)" fill="#ffffff">
+    <path vector-effect="non-scaling-stroke" d="M1110,-570 L1110,570 L-1110,570 L-1110,-570 L1110,-570" fill-rule="evenodd"/>
+   </g>
+   <g stroke-linecap="square" font-size="45.8611" stroke-opacity="1" font-family=".AppleSystemUIFont" font-weight="400" stroke="#000000" font-style="normal" stroke-width="1" transform="matrix(1,0,0,1,1485,1050)" fill="none" stroke-linejoin="bevel">
+    <rect height="0" x="0" width="0" y="0"/>
+   </g>
+   <g stroke-linecap="round" font-size="45.8611" stroke-opacity="1" font-family=".AppleSystemUIFont" font-weight="400" stroke="#000000" font-style="normal" stroke-width="7" transform="matrix(1,0,0,1,1485,1050)" fill="none" stroke-linejoin="bevel">
+    <path vector-effect="none" d="M-1110,-570 L1110,-570" fill-rule="evenodd"/>
+   </g>
+   <g stroke-linecap="round" font-size="45.8611" stroke-opacity="1" font-family=".AppleSystemUIFont" font-weight="400" stroke="#000000" font-style="normal" stroke-width="7" transform="matrix(1,0,0,1,1485,1050)" fill="none" stroke-linejoin="bevel">
+    <path vector-effect="none" d="M1110,-570 L1110,570" fill-rule="evenodd"/>
+   </g>
+   <g stroke-linecap="round" font-size="45.8611" stroke-opacity="1" font-family=".AppleSystemUIFont" font-weight="400" stroke="#000000" font-style="normal" stroke-width="7" transform="matrix(1,0,0,1,1485,1050)" fill="none" stroke-linejoin="bevel">
+    <path vector-effect="none" d="M1110,570 L-1110,570" fill-rule="evenodd"/>
+   </g>
+   <g stroke-linecap="round" font-size="45.8611" stroke-opacity="1" font-family=".AppleSystemUIFont" font-weight="400" stroke="#000000" font-style="normal" stroke-width="7" transform="matrix(1,0,0,1,1485,1050)" fill="none" stroke-linejoin="bevel">
+    <path vector-effect="none" d="M-1110,570 L-1110,-570" fill-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
+</svg>

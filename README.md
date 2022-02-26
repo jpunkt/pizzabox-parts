@@ -23,3 +23,7 @@ File names are lower case only, no white space characters.
 ## Ignored files
 
 FreeCAD creates backup files with the file ending `FCStd1`. These are only useful in the case of a program crash, and have been added to the `.gitignore` file.
+
+## FreeCAD versioning
+
+To allow proper versioning of FreeCAD files, this repository uses [zippey](https://bitbucket.org/sippey/zippey/src/master/) and a local `.gitconfig` as described in [this guide](https://blog.lambda.cx/posts/freecad-and-git/). `zippey` is included as a git submodule, so this repository should work on all computers where it is checked out.
