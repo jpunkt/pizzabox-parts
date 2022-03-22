@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ri_parm_scroll-supports.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="672.19424"
+     inkscape:cy="395.2955"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       transform="matrix(1,0,0,-1,125.85139,242.6614)"
+       id="Sketch003"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.45,37 h 3 V 20 a 3,3 0 0 1 3,-3 h 4 a 3,3 0 0 1 3,3 V 37 H 117 v -2 a 2,2 0 1 1 4,0 2,2 0 1 1 4,0 V 24.5 h 3 v -10 h -3 v -9 a 2.5,2.5 0 1 1 -5,0 V 3 H 90.45 V 0 H 52.5 V 3 H 5 V 8 H -5 V 3 H -52.5 V 0 H -90.45 V 3 H -120 v 5 h -5 V 24.5 35 a 2,2 0 0 1 4,0 2,2 0 0 1 4,0 v 2 h 46.55 V 18.5 h 7.9 V 34 h 3.525 v -3 h 3 v 3 H -52.5 V 22 h 105 v 12 h 3.525 v -3 h 3 v 3 H 62.55 V 18.5 h 7.9 V 37"
+         id="Sketch003_w0000"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1253"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="19.5"
+         cx="-110" />
+      <circle
+         id="circle1255"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="19.5"
+         cx="110" />
+      <circle
+         id="circle1257"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="8.1999998"
+         cy="19.5"
+         cx="-90" />
+      <circle
+         id="circle1259"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.75"
+         cy="32"
+         cx="-90" />
+      <circle
+         id="circle1261"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.75"
+         cy="7"
+         cx="-90" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -123,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch003_w0006"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.3,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch003_w0007"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.65,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch003_w0008"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -101.25,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch003_w0009"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -31.3,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch003_w0010"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.7,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch003_w0011"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1269"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="7"
+         cx="-58.549999" />
+      <circle
+         id="circle1271"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="7"
+         cx="-51.549999" />
+      <circle
+         id="circle1273"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="18"
+         cx="48.299999" />
+      <circle
+         id="circle1275"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="11"
+         cx="48.299999" />
+      <title
+         id="title1277">b'Sketch003'</title>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,129.35139,203.47786)"
+       id="Sketch001"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 70.45,37 h 3 V 20 a 3,3 0 0 1 3,-3 h 4 a 3,3 0 0 1 3,3 v 17 h 33.05 v -2 a 2,2 0 1 1 4,0 2,2 0 1 1 4,0 V 24.5 11 h -4 V 3 H 90.45 V 0 H 52.5 V 3 H 5 V 8 H -5 V 3 H -52.5 V 0 h -37.95 v 3 h -30.05 v 2.5 a 2.5,2.5 0 0 1 -5,0 v 9 h -3 v 10 h 3 V 35 a 2,2 0 0 1 4,0 2,2 0 0 1 4,0 v 2 h 47.05 V 18.5 h 7.9 V 34 h 3.525 v -3 h 3 v 3 H -52.5 V 22 h 105 v 12 h 3.525 v -3 h 3 v 3 H 62.55 V 18.5 h 7.9 V 37"
+         id="Sketch001_w0000"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1307"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="19.5"
+         cx="-110.5" />
+      <circle
+         id="circle1309"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="19.5"
+         cx="109.5" />
+      <circle
+         id="circle1311"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="8.1999998"
+         cy="19.5"
+         cx="-90.5" />
+      <circle
+         id="circle1313"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.75"
+         cy="32"
+         cx="-90.5" />
+      <circle
+         id="circle1315"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.75"
+         cy="7"
+         cx="-90.5" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -123.5,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch001_w0006"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120.8,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch001_w0007"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95.65,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch001_w0008"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -101.25,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch001_w0009"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -31.3,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch001_w0010"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.7,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch001_w0011"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1323"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="7"
+         cx="-58.549999" />
+      <circle
+         id="circle1325"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="7"
+         cx="-51.549999" />
+      <circle
+         id="circle1327"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="18"
+         cx="48.299999" />
+      <circle
+         id="circle1329"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="11"
+         cx="48.299999" />
+      <title
+         id="title1331">b'Sketch001'</title>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,177.85139,125.1108)"
+       id="Sketch"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 131.95,37 H 166 v -2 a 2,2 0 1 1 4,0 2,2 0 1 1 4,0 V 24.5 h 3 v -10 h -3 V 8.4999994 A 2.5,2.5 0 0 1 169,8.5 V 3 H 138.95 V 0 h -20 v 18.5 h -7.9 V 0 H 101 V 3 H 5 V 8 H -5 V 3 h -96 V 0 h -10.05 v 18.5 h -7.9 V 0 h -20 V 3 H -169 v 5.5 a 2.5,2.5 0 0 1 -5,0 v 6 h -3 v 10 h 3 V 35 a 2,2 0 1 1 4,0 2,2 0 0 1 4,0 v 2 h 47.05 V 34 H -101 V 22.5 H 101 V 34 h 17.95 v 3 h 3 V 20.5 a 3,3 0 0 1 3,-3 h 4 a 3,3 0 0 1 3,3 V 37"
+         id="Sketch_w0000"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1361"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="20"
+         cx="-159" />
+      <circle
+         id="circle1363"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="10.9"
+         cy="20"
+         cx="159" />
+      <circle
+         id="circle1365"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="8.1999998"
+         cy="20"
+         cx="-139" />
+      <circle
+         id="circle1367"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.7"
+         cy="7.5"
+         cx="-139" />
+      <circle
+         id="circle1369"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.7"
+         cy="32.5"
+         cx="-139" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 170.3,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch_w0006"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -172,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         id="Sketch_w0007"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.15,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch_w0008"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.2,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch_w0009"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -79.8,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch_w0010"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -149.75,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         id="Sketch_w0011"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle1377"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.45"
+         cy="7.5"
+         cx="-107.05" />
+      <circle
+         id="circle1379"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.45"
+         cy="7.5"
+         cx="-100.05" />
+      <circle
+         id="circle1381"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.45"
+         cy="18.5"
+         cx="96.800003" />
+      <circle
+         id="circle1383"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.45"
+         cy="11.5"
+         cx="96.800003" />
+      <title
+         id="title1385">b'Sketch'</title>
+    </g>
+    <g
+       id="g1448"
+       transform="matrix(1,0,0,-1,177.85139,164.29433)"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1414"
+         d="M 131.95,37 H 166 v -2 a 2,2 0 1 1 4,0 2,2 0 1 1 4,0 V 24.5 h 3 v -10 h -3 V 8.4999994 A 2.5,2.5 0 0 1 169,8.5 V 3 H 138.95 V 0 h -20 v 18.5 h -7.9 V 0 H 101 V 3 H 5 V 8 H -5 V 3 h -96 V 0 h -10.05 v 18.5 h -7.9 V 0 h -20 V 3 H -169 v 5.5 a 2.5,2.5 0 0 1 -5,0 v 6 h -3 v 10 h 3 V 35 a 2,2 0 1 1 4,0 2,2 0 0 1 4,0 v 2 h 47.05 V 34 H -101 V 22.5 H 101 V 34 h 17.95 v 3 h 3 V 20.5 a 3,3 0 0 1 3,-3 h 4 a 3,3 0 0 1 3,3 V 37"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="-159"
+         cy="20"
+         r="10.9"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1416" />
+      <circle
+         cx="159"
+         cy="20"
+         r="10.9"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1418" />
+      <circle
+         cx="-139"
+         cy="20"
+         r="8.1999998"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1420" />
+      <circle
+         cx="-139"
+         cy="7.5"
+         r="1.7"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1422" />
+      <circle
+         cx="-139"
+         cy="32.5"
+         r="1.7"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1424" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1426"
+         d="m 170.3,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1428"
+         d="m -172,31.8 h 1.7 v -5.6 h -1.7 v 5.6"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1430"
+         d="m 144.15,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1432"
+         d="m 74.2,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1434"
+         d="m -79.8,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1436"
+         d="m -149.75,9.7 h 5.6 V 8 h -5.6 v 1.7"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="-107.05"
+         cy="7.5"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1438" />
+      <circle
+         cx="-100.05"
+         cy="7.5"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1440" />
+      <circle
+         cx="96.800003"
+         cy="18.5"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1442" />
+      <circle
+         cx="96.800003"
+         cy="11.5"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1444" />
+      <title
+         id="title1446">b'Sketch'</title>
+    </g>
+  </g>
+</svg>

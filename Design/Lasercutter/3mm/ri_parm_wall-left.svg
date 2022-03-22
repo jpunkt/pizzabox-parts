@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3812"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ri_parm_wall-left.svg">
+  <defs
+     id="defs3806" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-238.57143"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3809">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(1.7886838,-128.23991)"
+       id="g3783">
+      <g
+         style="stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="Sketch007"
+         transform="matrix(0,1,1,0,390.78274,134.58515)">
+        <path
+           inkscape:connector-curvature="0"
+           id="Sketch007_w0000"
+           d="m 0,-349 h -3 v -20 h 3 v -20 h 6.8 v 3 h 6.8 v -3 h 6.8 v 3 h 6.8 v -3 H 34 v 20 h 3 v 20 h -3 v 312 h 3 v 20 H 34 V 3 H 27.2 V 0 H 20.4 V 3 H 13.6 V 0 H 6.8 V 3 H 0 v -20 h -3 v -20 h 3 v -215.5 h 25 v -35 H 0 V -349"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="Sketch007_w0001"
+           d="m 21.5,-55.5 v -8 h -10 v 8 h 10"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="Sketch007_w0002"
+           d="m 21.5,-188.5 v -8 h -10 v 8 h 10"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <circle
+           cx="25"
+           cy="-237.5"
+           r="4"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3641" />
+        <circle
+           cx="25"
+           cy="-297.5"
+           r="3"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3643" />
+        <circle
+           cx="26"
+           cy="-59.5"
+           r="1.5"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3645" />
+        <circle
+           cx="26"
+           cy="-192.5"
+           r="1.5"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3647" />
+        <circle
+           cx="16.5"
+           cy="-247.5"
+           r="1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3649" />
+        <circle
+           cx="5"
+           cy="-247.5"
+           r="1"
+           style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+           id="circle3651" />
+        <title
+           id="title3653">b'left001'</title>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3763"
+         d="m 353.7832,144.03516 c -1.13159,0 -2.05078,0.91919 -2.05078,2.05078 0,1.13159 0.91919,2.04883 2.05078,2.04883 1.13159,0 2.04883,-0.91724 2.04883,-2.04883 0,-1.13159 -0.91724,-2.05078 -2.04883,-2.05078 z m 0,0.0996 c 1.07755,0 1.94922,0.87362 1.94922,1.95117 0,1.07754 -0.87167,1.94922 -1.94922,1.94922 -1.07754,0 -1.95117,-0.87168 -1.95117,-1.94922 0,-1.07755 0.87363,-1.95117 1.95117,-1.95117 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
+  </g>
+</svg>

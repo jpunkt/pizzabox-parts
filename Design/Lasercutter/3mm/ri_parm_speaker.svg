@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1680"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ri_parm_speaker.svg">
+  <defs
+     id="defs1674" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="271.40226"
+     inkscape:cy="626.28299"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1677">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0,0.99999997,0.99999997,0,39.509474,128.05818)"
+       id="Sketch011"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -30,-29 v 10 h 3 v 38 h -3 v 10 h 6.75 v 3 h 6.75 v -3 h 6.75 v 3 H 0 V 22 H -3 V 2.5 h -1 v -5 h 1 V -22 h 3 v -10 h -9.75 v 3 h -6.75 v -3 h -6.75 v 3 H -30"
+         id="Sketch011_w0000"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle2509"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1"
+         cy="-19"
+         cx="-8" />
+      <circle
+         id="circle2511"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1"
+         cy="-19"
+         cx="-19" />
+      <title
+         id="title2513">b'front'</title>
+    </g>
+    <g
+       transform="matrix(0,0.99999999,0.99999999,0,77.15531,95.412331)"
+       id="Sketch009"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -30,48 h 6.75 v -3 h 6.75 v 3 h 6.75 V 45 H 0 V 35 h -3 v -8.5 h -6.75 v -8 H -3 V 10 H 0 V 0 h -9.75 v -3 h -6.75 v 3 h -6.75 V -3 H -30 v 13 h 3 v 25 h -3 v 13"
+         id="Sketch009_w0000"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title2530">b'side'</title>
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,39.509475,65.412331)"
+       id="Sketch009-3"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -29,-30 h 10 v 3 h 38 v -3 h 10 v 6.75 h 3 v 6.75 h -3 v 6.75 h 3 V 0 H 22 v -3 h -19.4999997 -5 H -22 v 3 h -10 v -9.75 h 3 v -6.75 h -3 v -6.75 h 3 V -30"
+         id="Sketch009_w0000-6"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title2545">b'back'</title>
+    </g>
+    <g
+       id="g2563"
+       transform="matrix(0,0.99999999,0.99999999,0,77.15531,128.22084)"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2559"
+         d="m -30,48 h 6.75 v -3 h 6.75 v 3 h 6.75 V 45 H 0 V 35 h -3 v -8.5 h -6.75 v -8 H -3 V 10 H 0 V 0 h -9.75 v -3 h -6.75 v 3 h -6.75 V -3 H -30 v 13 h 3 v 25 h -3 v 13"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <title
+         id="title2561">b'side'</title>
+    </g>
+    <g
+       transform="matrix(0.99999996,0,0,-0.99999996,159.80116,68.383165)"
+       id="Sketch006"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -19,3 H 19 V 0 h 10 v -10 h 3 V -35 H 29 V -45 H 19 v -3 h -38 v 3 h -10 v 10 h -3 v 25 h 3 V 0 h 10 v 3"
+         id="Sketch006_w0000"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.10000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 27.100665,-25.5 a 3.31892,3.31892 0 0 1 3.5e-5,6 l -5.283276,2.5 a 22.5,22.5 0 0 1 -43.634824,0 l -5.283265,-2.5 a 3.31892,3.31892 0 0 1 -3.5e-5,-6 l 5.283276,-2.5 a 22.5,22.5 0 0 1 43.634824,0 l 5.283265,2.5"
+         id="Sketch006_w0001"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title2904">b'cover001'</title>
+    </g>
+  </g>
+</svg>

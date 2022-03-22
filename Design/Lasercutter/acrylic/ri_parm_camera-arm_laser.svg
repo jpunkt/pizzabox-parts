@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2048"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ri_parm_camera-arm_laser.svg">
+  <defs
+     id="defs2042" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="57.828282"
+     inkscape:cy="524.15074"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2045">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(1,0,0,-1,7.300595,20.894047)"
+       id="Sketch008"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1;fill:none">
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -3.5,17.4 h 37 v -395 h -37 v 395"
+         id="Sketch008_w0000"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8,12.6 H 21 V 7.2 H 8 v 5.4"
+         id="Sketch008_w0001"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 8,-7.2 h 13 v -5.4 H 8 v 5.4"
+         id="Sketch008_w0002"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle2798"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="3.45"
+         cx="14.5" />
+      <circle
+         id="circle2800"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.5"
+         cy="-3.45"
+         cx="14.5" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1.9144916,-354.47384 7.2504623,3.38094 2.1130913,-4.53154 -7.25046233,-3.38094 -2.11309127,4.53154"
+         id="Sketch008_w0005"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 4.4247823,-368.06846 7.2504627,3.38095 2.113091,-4.53154 -7.2504624,-3.38095 -2.1130913,4.53154"
+         id="Sketch008_w0006"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.211664,-346.02148 7.250462,3.38095 2.113092,-4.53154 -7.250463,-3.38095 -2.113091,4.53154"
+         id="Sketch008_w0007"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 22.550938,-359.6161 7.250462,3.38095 2.113092,-4.53154 -7.250463,-3.38094 -2.113091,4.53153"
+         id="Sketch008_w0008"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle2806"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.6"
+         cy="-361.84644"
+         cx="5.9369221" />
+      <circle
+         id="circle2808"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="1.6"
+         cy="-353.39407"
+         cx="24.063078" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 0.53449162,-346.7116 0.42261826,-0.9063 15.40723212,7.18451 -0.422618,0.9063 -15.40723238,-7.18451"
+         id="Sketch008_w0011"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 6,-92.6 h 17 v -1 H 6 v 1"
+         id="Sketch008_w0012"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title2812">b'Sketch008'</title>
+    </g>
+  </g>
+</svg>

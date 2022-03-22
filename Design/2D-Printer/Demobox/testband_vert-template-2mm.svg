@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="1277.9927"
-     inkscape:cy="302.12574"
+     inkscape:cx="548.42015"
+     inkscape:cy="387.9484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,25 +36,25 @@
      inkscape:snap-center="true"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="706.75104,99.999995"
+       position="740.83332,-28.865108"
        orientation="1,0"
        id="guide2470"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(255,0,0)" />
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="219.00003,-0.99520872"
+       position="184.75106,-14.363095"
        orientation="1,0"
        id="guide2472"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
        position="2.3828124e-06,195"
        orientation="0,1"
@@ -101,19 +101,19 @@
        inkscape:label=""
        inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="740.83332,83.15476"
+       position="685.83332,83.15476"
        orientation="1,0"
        id="guide2170"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(255,0,0)" />
     <sodipodi:guide
-       position="184.75106,99.999995"
+       position="239.75106,99.999995"
        orientation="1,0"
        id="guide2172"
        inkscape:locked="false"
        inkscape:label=""
-       inkscape:color="rgb(255,0,0)" />
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="198.95,195.00478"
        orientation="1,0"
@@ -128,7 +128,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -147,11 +147,11 @@
        transform="scale(-1)" />
     <rect
        y="-297.99521"
-       x="-219.00003"
+       x="-239.75107"
        height="6"
-       width="220.00002"
+       width="240.75105"
        id="rect7629"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34469673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34469676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        transform="scale(-1)" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29524305;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1784,7 +1784,7 @@
     </g>
     <g
        id="g2511-0-97"
-       transform="matrix(0,-1,0.90714989,0,444.53711,428.95)"
+       transform="matrix(0,-1,0.90714989,0,423.55432,428.95)"
        style="stroke-width:1.04993033">
       <rect
          y="199"

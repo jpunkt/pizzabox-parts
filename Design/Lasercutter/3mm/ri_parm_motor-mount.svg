@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg838"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ri_parm_motor-mount.svg">
+  <defs
+     id="defs832" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="242.88178"
+     inkscape:cy="964.27543"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata835">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="Sketch002"
+       transform="matrix(1,0,0,-1,30.335091,48.361396)"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="Sketch002_w0000"
+         d="m 11.95,0 h 4.1 v 35.9 a 3.5,3.5 0 0 1 -3.5,3.5 h -25.1 a 3.5,3.5 0 0 1 -3.5,-3.5 V 0 h 4.1 v 2.9 h 4 v 8.5 h 2 v 20 h 11.9 v -20 h 2 V 2.9 h 4 V 0"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="Sketch002_w0001"
+         d="m -8.45,31.4 h 1 v -16 h -1 v 6 h -1 v 4 h 1 v 6"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="Sketch002_w0002"
+         d="m 7.45,31.4 h 1 v -6 h 1 v -4 h -1 v -6 h -1 v 16"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <title
+         id="title5">b'Sketch002'</title>
+    </g>
+    <g
+       id="Sketch"
+       transform="matrix(0.99999998,0,0,-0.99999998,63.610147,24.919622)"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="Sketch_w0000"
+         d="m -16.05,-12.55 v 25.1 a 3.5,3.5 0 0 0 3.5,3.5 h 11.0999999 v -3.9 h 2.9 v 3.9 H 12.55 a 3.5,3.5 0 0 0 3.5,-3.5 v -25.1 a 3.5,3.5 0 0 0 -3.5,-3.5 H 1.4500001 v 3.9 h -2.9 v -3.9 H -12.55 a 3.5,3.5 0 0 0 -3.5,3.5"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         cx="-4.6423548e-22"
+         cy="-1.3226962e-29"
+         r="8"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle3" />
+      <circle
+         cx="-12.55"
+         cy="-4.3830262e-16"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5" />
+      <circle
+         cx="12.55"
+         cy="-4.3830262e-16"
+         r="1.45"
+         style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle7" />
+      <title
+         id="title9">b'Sketch'</title>
+    </g>
+  </g>
+</svg>

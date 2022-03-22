@@ -1,8 +1,63 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="225.42mm" height="117.92mm" viewBox="0 0 225.42 117.92" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch001" transform="translate(112.710000,58.960000) scale(1,-1)">
-<path id="Sketch001_w0000"  d="M -110.5 56.75 L 110.5 56.75 L 110.5 -56.75 L -110.5 -56.75 L -110.5 56.75 " stroke="#191919" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<title>b'top'</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="225.42mm"
+   height="117.92mm"
+   viewBox="0 0 225.42 117.92"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="ri-lights-top.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.38733254"
+     inkscape:cx="160.06918"
+     inkscape:cy="222.84094"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="Sketch001"
+     transform="translate(112.710000,58.960000) scale(1,-1)"
+     style="stroke:#ff0000">
+    <path
+       id="Sketch001_w0000"
+       d="M -110.5 56.75 L 110.5 56.75 L 110.5 -56.75 L -110.5 -56.75 L -110.5 56.75 "
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000" />
+    <title
+       id="title3">b'top'</title>
+  </g>
 </svg>
